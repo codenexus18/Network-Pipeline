@@ -20,24 +20,19 @@ The system is designed for *learning purposes* and is fully self-contained, lega
 ## Project Structure
 
     Python-Network-Event-Pipeline/
-    │
     ├── Program Files/
     │   ├── cli.py
     │   ├── main.py
     │   ├── pipeline.py
     │   └── storage.py
-    │
     ├── Test Cases/   
     │   │   ├── sample_events_1.json
-    │   │
     │   └── Results/
     │       └── performance_summary.csv
-    │
     ├── Docs/
     │   ├── Software Design Document.pdf
-    │
     └── README.md
 
 ## Contact
 
-For questions about contributions or to request permission to contribute, contact the repository owner at: codedev.nexus24@gmail.com.
+For questions about contributions or details of the project, contact the repository owner at: codedev.nexus24@gmail.com.
